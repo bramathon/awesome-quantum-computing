@@ -23,3 +23,11 @@ Simulators for quantum circuits. Determine the output of a quantum circuit using
 * [qHiPSTER](https://github.com/intel/intel-qs) - Intel's high-performance quantum simulator. State-vector simulator highly optimized for multiple CPUs.
 * [QRack](https://github.com/unitaryfund/qrack) - Comprehensive, GPU accelerated framework from the unitary fund.
 * [ITensor](https://github.com/ITensor/ITensors.jl) - State-of-the-art tensor network simulations written in Julia.
+
+# Compilers
+
+* [QuilC](https://github.com/quil-lang/quilc) - A full-stack compiler written in common lisp for the Quil language.qis
+* [Qiskit.compiler](https://github.com/Qiskit/qiskit/tree/main/qiskit/compiler) - Qiskit's built-in full stack compiler with dozens of compilation passes.
+* [Tket](https://github.com/CQCL/tket) - C++-based full-stack quantum compiler written by Quantinuum.
+* [BQSKit](https://github.com/BQSKit/bqskit) - Berkeley Quantum Synthesis Toolkit is a full-stack quantum compiler that uses numerical and approximate methods to find high-performing compilations.
+* [Cirq.transformers](https://github.com/quantumlib/Cirq/tree/main/cirq-core/cirq/transformers) - Cirq's built-in transformers offer a variety of compilation passes, but does not include routing.
