@@ -12,6 +12,7 @@ Full-stack software frameworks for constructing circuits and executing on quantu
 * [Pennylane](https://github.com/PennyLaneAI/pennylane) - Xanadu's cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry.
 * [qBraid](https://github.com/qBraid/qBraid) - A platform-agnostic quantum runtime framework
 * [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - SDK for D-Wave's quantum annealers.
+* [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Package for the quantum computation and quantum simulation based on Quera's neutral-atom architecture. 
 
 # Simulators
 
@@ -27,6 +28,11 @@ Simulators for quantum circuits. Determine the output of a quantum circuit using
 * [QRack](https://github.com/unitaryfund/qrack) - Comprehensive, GPU accelerated framework from the unitary fund.
 * [ITensor](https://github.com/ITensor/ITensors.jl) - State-of-the-art tensor network simulations written in Julia.
 * [QuEST](https://github.com/QuEST-Kit/QuEST) - A multithreaded, distributed, GPU-accelerated simulator of quantum computers
+* [Qulacs](https://github.com/qulacs/) - Qulacs is a Python/C++ library for fast simulation of large, noisy, or parametric quantum circuits.
+* [Dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance quantum systems simulation with JAX
+* [Qibo](https://github.com/qiboteam/qibo) - Efficient simulation backends with GPU, multi-GPU and CPU with multi-threading support.
+* [Quimb](https://github.com/jcmgray/quimb) - A python library for quantum information and many-body calculations including tensor networks.
+* [Stim](https://github.com/quantumlib/Stim) -  A fast stabilizer circuit library. 
 
 # Compilers
 
