@@ -12,8 +12,12 @@ Full-stack software frameworks for constructing circuits and executing on quantu
 * [Pennylane](https://github.com/PennyLaneAI/pennylane) - Xanadu's cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry.
 * [qBraid](https://github.com/qBraid/qBraid) - A platform-agnostic quantum runtime framework
 * [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) - SDK for D-Wave's quantum annealers.
-* [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Package for the quantum computation and quantum simulation based on Quera's neutral-atom architecture. 
-
+* [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Package for the quantum computation and quantum simulation based on Quera's neutral-atom architecture.
+* [Qadence](https://github.com/pasqal-io/qadence) - Digital-analog quantum programming interface.
+* [Braket](https://github.com/amazon-braket/amazon-braket-sdk-python) - A Python SDK for interacting with quantum devices on Amazon Braket.
+* [Cuda-Q](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows.
+* [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - ProjectQ: An open source software framework for quantum computing.
+  
 # Simulators
 
 Simulators for quantum circuits. Determine the output of a quantum circuit using a classical computer.
@@ -43,6 +47,7 @@ Compilers transform logical quantum circuits
 * [Tket](https://github.com/CQCL/tket) - C++-based full-stack quantum compiler written by Quantinuum.
 * [BQSKit](https://github.com/BQSKit/bqskit) - Berkeley Quantum Synthesis Toolkit is a full-stack quantum compiler that uses numerical and approximate methods to find high-performing compilations.
 * [Cirq.transformers](https://github.com/quantumlib/Cirq/tree/main/cirq-core/cirq/transformers) - Cirq's built-in transformers offer a variety of compilation passes, but does not include routing.
+* [PyZX](https://github.com/zxcalc/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus 
 
 # Error Mitigation
 
